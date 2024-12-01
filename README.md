@@ -94,7 +94,7 @@
 
 
 ## download map
-`[link](https://pan.baidu.com/s/1-L1-3KYAZENoZfYEJp9O5w?pwd=fk97)`
+[link](https://pan.baidu.com/s/1-L1-3KYAZENoZfYEJp9O5w)
 ```
 >> fk97
 ```
